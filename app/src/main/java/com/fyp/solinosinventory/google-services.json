@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508457360585",
+    "project_id": "solinos-inventory",
+    "storage_bucket": "solinos-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508457360585:android:bcd12fb929e01fee800118",
+        "android_client_info": {
+          "package_name": "com.fyp.solinosinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508457360585-ibc65jpt9l5uttkqjj982slt5pgg3nke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.solinosinventory",
+            "certificate_hash": "2dfa94e7435cc353ee81a461da3fdc5a359ac2ed"
+          }
+        },
+        {
+          "client_id": "508457360585-v3o6ugf7r1m447ltr9k1lnepfur5afnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNXnzQGkNy9ImPbYNwpmKYOFuySYtNK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508457360585-v3o6ugf7r1m447ltr9k1lnepfur5afnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
